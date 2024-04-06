@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704390267059959858/feab7c18310644e6a4f7dde7a6f4b7fb/artifacts
+end_time: 1712435627503
+entry_point_name: ''
+experiment_id: '704390267059959858'
+lifecycle_stage: active
+run_id: feab7c18310644e6a4f7dde7a6f4b7fb
+run_name: hilarious-elk-526
+run_uuid: feab7c18310644e6a4f7dde7a6f4b7fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712435625311
+status: 3
+tags: []
+user_id: budd8y
