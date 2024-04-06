@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704390267059959858/3a90d99eba844b599a2daa22f51e5788/artifacts
+end_time: 1712435820454
+entry_point_name: ''
+experiment_id: '704390267059959858'
+lifecycle_stage: active
+run_id: 3a90d99eba844b599a2daa22f51e5788
+run_name: kindly-lark-788
+run_uuid: 3a90d99eba844b599a2daa22f51e5788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712435818274
+status: 3
+tags: []
+user_id: budd8y

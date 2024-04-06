@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704390267059959858/bfdd7cc6ff454a6e886969dcc30c335d/artifacts
+end_time: 1712435859308
+entry_point_name: ''
+experiment_id: '704390267059959858'
+lifecycle_stage: active
+run_id: bfdd7cc6ff454a6e886969dcc30c335d
+run_name: thoughtful-koi-793
+run_uuid: bfdd7cc6ff454a6e886969dcc30c335d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712435857163
+status: 3
+tags: []
+user_id: budd8y

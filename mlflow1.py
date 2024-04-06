@@ -19,7 +19,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 # Define the model hyperparameters
 params = {
     "solver": "lbfgs",
-    "max_iter": 2000,
+    "max_iter": 1200,
     "multi_class": "auto",
     "random_state": 8888,
 }
@@ -40,6 +40,7 @@ mlflow.set_tracking_uri(uri="http://127.0.0.1:5000")
 # Create a new MLflow Experiment
 mlflow.set_experiment("MLflow Quickstart")
 
+#######################################################
 # Start an MLflow run
 with mlflow.start_run():
     # Log the hyperparameters
@@ -63,3 +64,16 @@ with mlflow.start_run():
         registered_model_name="tracking-quickstart",
     )
 
+#######################################################
+# Load the model back for predictions as a generic Python Function model
+loaded_model = mlflow.pyfunc.load_model(model_info.model_uri)
+
+predictions = loaded_model.predict(X_test)
+
+iris_feature_names = datasets.load_iris().feature_names
+
+result = pd.DataFrame(X_test, columns=iris_feature_names)
+result["actual_class"] = y_test
+result["predicted_class"] = predictions
+
+print(f'result: {result[:4]}')
