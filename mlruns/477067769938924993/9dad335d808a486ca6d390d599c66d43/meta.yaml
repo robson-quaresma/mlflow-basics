@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/budd8y/workplace/sandbox/ds/mlops/mlflow/mlruns/477067769938924993/9dad335d808a486ca6d390d599c66d43/artifacts
+end_time: 1712497938535
+entry_point_name: ''
+experiment_id: '477067769938924993'
+lifecycle_stage: active
+run_id: 9dad335d808a486ca6d390d599c66d43
+run_name: rumbling-ram-574
+run_uuid: 9dad335d808a486ca6d390d599c66d43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712497938465
+status: 4
+tags: []
+user_id: budd8y

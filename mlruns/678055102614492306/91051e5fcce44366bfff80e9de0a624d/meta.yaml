@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/budd8y/workplace/sandbox/ds/mlops/mlflow/mlruns/678055102614492306/91051e5fcce44366bfff80e9de0a624d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '678055102614492306'
+lifecycle_stage: active
+run_id: 91051e5fcce44366bfff80e9de0a624d
+run_name: amazing-swan-944
+run_uuid: 91051e5fcce44366bfff80e9de0a624d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712500422851
+status: 1
+tags: []
+user_id: budd8y

@@ -1,0 +1,6 @@
+artifact_location: file:///Users/budd8y/workplace/sandbox/ds/mlops/mlflow/mlruns/678055102614492306
+creation_time: 1712500422715
+experiment_id: '678055102614492306'
+last_update_time: 1712500422715
+lifecycle_stage: active
+name: /mlflow-pytorch-quickstart

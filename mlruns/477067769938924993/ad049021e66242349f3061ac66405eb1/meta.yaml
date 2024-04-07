@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/budd8y/workplace/sandbox/ds/mlops/mlflow/mlruns/477067769938924993/ad049021e66242349f3061ac66405eb1/artifacts
+end_time: 1712436999522
+entry_point_name: ''
+experiment_id: '477067769938924993'
+lifecycle_stage: active
+run_id: ad049021e66242349f3061ac66405eb1
+run_name: clumsy-wasp-648
+run_uuid: ad049021e66242349f3061ac66405eb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712436999446
+status: 4
+tags: []
+user_id: budd8y
